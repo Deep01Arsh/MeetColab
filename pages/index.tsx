@@ -48,7 +48,7 @@ export default function Home() {
 
       <div className='flex flex-col p-4 items-center justify-center w-full h-[95vh]'>
         <h1 className='text-4xl font-bold mb-4'>
-          <span className='meetup-text text-5xl'>MeetUp</span> - Connect Instantly
+          <span className='meetup-text text-5xl'>MeetColab</span> - Connect Instantly
         </h1>
         <p className='text-lg text-neutral-400 mb-6'>
           No sign-ups, no downloads—just smooth, secure video calls with MeetUp. Stay connected with ease.
